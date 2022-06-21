@@ -1,4 +1,4 @@
-# FAIW_PCA
+# FAIW-PCA
 
 % Fiber architecture informed synchrony mapping
 % Syntax:  calculate_SYN(f_fmri_total, f_dwi, f_nodif_mask, par);
